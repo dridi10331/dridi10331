@@ -1,21 +1,14 @@
-<h1>Hi, I'm Ahmed Omar! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, 
+<h1>Hi, I'm Ahmed Omar!, <a href="https://www.linkedin.com/in/ahmed-omar-dridi-924445335/">Cybersecurity Professional</a>, 
   <a href="Ahmed omar">engineer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 student in esprit:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com)
+  - [Praciting DS & Algos in Python]
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com)
-  - [JWipe (Disk Wiping Utility)](https://github.com)
-  - [Active Directory Bulk User Creation](https://github.com)
-  - [FIM (File Integrity Monitor)](https://github.com)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com)
-  - [Keylogger with Email Capability](https://github.com)
+- <
+
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com)
 
