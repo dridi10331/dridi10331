@@ -1,43 +1,45 @@
-<h1>Hi, I'm Ahmed Omar!, <a href="https://www.linkedin.com/in/ahmed-omar-dridi-924445335/">Cybersecurity Professional</a>, 
-  <a href="Ahmed omar">engineer</a></h1>
+<h1 align="center">Hi, I'm Ahmed Omar! 👋</h1>
+<h2 align="center">
+  <a href="https://www.linkedin.com/in/ahmed-omar-dridi-924445335/">Cybersecurity Professional</a> &bull;
+  Engineer
+</h2>
 
-<h2>👨‍💻 student in esprit:</h2>
+---
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python]
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com) <b><i>(Potentially NSFW)</b></i>
-- <
+### 👨‍💻 Student at ESPRIT
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com)
+- **Specialized in:**  
+  - **Cybersecurity**
+  - **Full Stack Web Development**
+  - **Machine Learning**
 
-<h2>📺 Popular/h2>
+- **Current Learning & Projects:**
+  - Practicing Data Structures and Algorithms using Python
+  - Working on Full Stack Web Apps (React, NodeJS, Azure, Machine Learning)
+  - [Image Analysis Middleware Project](https://github.com) _(Potentially NSFW)_
 
+- **Technologies:**  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+  ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="AHMED | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="AHMED | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="AHMED | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AHMED | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### 🤳 Connect with me
 
-[twitter]: https://twitter.com
-[youtube]: https://www.youtube.com
-[instagram]: https://www.instagram.com
-[linkedin]: https://linkedin.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ahmed-omar-dridi-924445335/)
+- 📧 Email: [Add an email here if you'd like]
+
+---
 
 <!--
-**AHMED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dridi10331/dridi10331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ai...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+More about me:
+- 🔭 I’m currently working on improving my Artificial Intelligence skills.
+- 🌱 Always learning and exploring new fields.
+- 👯 Open to collaborating on cybersecurity and software engineering projects.
+- 💬 Ask me about Python, Security, or Web development!
+- 📫 You can reach out through LinkedIn.
 -->
