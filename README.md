@@ -6,16 +6,17 @@
 
 ---
 
-### 👨‍💻 Student at ESPRIT
+🎓 Engineering student with a strong interest in **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development**.
 
-- **Specialized in:**  
-  - **Full Stack Web Development**
-  - **Machine Learning**
+#### 🔧 Specializations
+- **Full Stack Web Development**
+- **Machine Learning & AI**
 
-- **Current Learning & Projects:**
-  - Practicing Data Structures and Algorithms using Python
-  - Working on Full Stack Web Apps (React, NodeJS, Azure, Machine Learning)
-  - working on my soft skills
+#### 🚀 Currently Learning & Working On
+ - Data Structures and Algorithms using **Python**
+ - Full Stack Web Applications (**React, Node.js, Azure**)
+ - Machine Learning projects
+ - Improving **soft skills** and teamwork abilities
 
 
 
@@ -27,12 +28,11 @@
 ---
 
 <!--
-**dridi10331/dridi10331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-More about me:
-- 🔭 I’m currently working on improving my Artificial Intelligence skills.
-- 🌱 Always learning and exploring new fields.
-- 👯 Open to collaborating on cybersecurity and software engineering projects.
-- 💬 Ask me about Python, Security, or Web development!
-- 📫 You can reach out through LinkedIn.
+### 🌱 More About Me
+- 🔭 Currently improving my **Artificial Intelligence** skills
+- 🌱 Always learning and exploring new technologies
+- 👯 Open to collaborating on **AI, software engineering, and cybersecurity** projects
+- 💬 Ask me about **Python, Machine Learning, or Web Development**
+
 -->
