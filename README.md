@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ahmed Omar! 👋</h1>
 <h2 align="center">
-  <a href="https://www.linkedin.com/in/ahmed-omar-dridi-924445335/">Cybersecurity Professional</a> &bull;
+  <a href="https://www.linkedin.com/in/ahmed-omar-dridi-924445335/"></a> &bull;
   Engineer
 </h2>
 
