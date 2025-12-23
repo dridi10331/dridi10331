@@ -27,7 +27,7 @@
 
 ---
 
-<!--
+---
 
 ### 🌱 More About Me
 - 🔭 Currently improving my **Artificial Intelligence** skills
@@ -35,4 +35,4 @@
 - 👯 Open to collaborating on **AI, software engineering, and cybersecurity** projects
 - 💬 Ask me about **Python, Machine Learning, or Web Development**
 
--->
+---
