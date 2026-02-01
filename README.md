@@ -32,7 +32,7 @@
 ### 🌱 More About Me
 - 🔭 Currently improving my **Artificial Intelligence** skills
 - 🌱 Always learning and exploring new technologies
-- 👯 Open to collaborating on **AI, software engineering, and cybersecurity** projects
+- 👯 Open to collaborating on **AI and software engineering** projects
 - 💬 Ask me about **Python, Machine Learning, or Web Development**
 
 ---
