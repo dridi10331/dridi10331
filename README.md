@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Ahmed Omar Dridi</h1>
 <h3 align="center">
-  AI & ML Engineer | 3x NVIDIA Certified | LLM & Computer Vision Enthusiast
+  2nd Year Engineering Student @ ESPRIT | AI & ML Enthusiast
 </h3>
 
 <p align="center">
