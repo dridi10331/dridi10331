@@ -51,7 +51,7 @@ I’m an engineering student at **ESPRIT** (2nd year) with a strong focus on **A
 - [Introduction to Transformer‑Based Natural Language Processing](https://learn.nvidia.com/certificates?id=E-jRkyRSTwOF9onxp0a2Rw) – Jan 2026  
 
 **Other**  
-- [AWS AI Practitioner Challenge](https://www.udacity.com/certificate/e/5dffd256-28b8-11f1-b6c4-e7c7a313538b) – Jan 2026
+- [AWS AI Practitioner Challenge](https://www.udacity.com/certificate/e/5dffd256-28b8-11f1-b6c4-e7c7a313538b) – March 2026
 - Building RAG Apps Using MongoDB – MongoDB, Jan 2026  
 - Fundamental AI Concepts – Microsoft, Jan 2026  
 - Introduction to Git – Microsoft, Jan 2026  
