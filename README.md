@@ -95,6 +95,7 @@ I’m an engineering student at **ESPRIT** with a strong focus on **Artificial I
 - **Email**: ahmedomardridi5@gmail.com
 - **GitHub**: [Ahmed Omar Dridi](https://github.com/dridi10331) – you’re already here!
 - **Kaggle**: [Ahmed Omar Dridi](https://www.kaggle.com/omardridi)
+- **Huggingface**: [Ahmed Omar Dridi]([https://www.kaggle.com/omardridi](https://huggingface.co/ahmedomar10))
 
 ---
 
