@@ -16,7 +16,7 @@
 
 ### 🧠 About Me
 
-I’m an engineering student at **ESPRIT** (2nd year) with a strong focus on **Artificial Intelligence**, **Machine Learning**, and **Full‑Stack Development**. I love building intelligent systems that solve real‑world problems.
+I’m an engineering student at **ESPRIT** with a strong focus on **Artificial Intelligence**, **Machine Learning**, and **Full‑Stack Development**. I love building intelligent systems that solve real‑world problems.
 
 - 🔭 I’m currently deepening my expertise in **LLMs**, **RAG**, and **Deep Learning**.
 - 🌱 Always learning: latest AI frameworks, cloud deployment, and MLOps.
