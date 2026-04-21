@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Ahmed Omar Dridi</h1>
 <h3 align="center">
-  2nd Year Engineering Student @ ESPRIT | AI & ML Enthusiast
+  Engineering Student @ ESPRIT | AI & ML Enthusiast
 </h3>
 
 <p align="center">
