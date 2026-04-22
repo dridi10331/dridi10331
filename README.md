@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/ahmed-omar-dridi](https://www.linkedin.com/in/ahmedomardridi)" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmedomardridi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:ahmedomardridi5@gmail.com">
