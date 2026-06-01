@@ -1,106 +1,126 @@
-<h1 align="center">👋 Hi, I'm Ahmed Omar Dridi</h1>
+<h1 align="center">Ahmed Omar Dridi</h1>
+
 <h3 align="center">
-  Engineering Student @ ESPRIT | AI & ML Enthusiast
+ML Engineer • Computer Vision • Backend Systems
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmedomardridi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+Engineering Student @ ESPRIT building production-oriented AI systems
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmedomardridi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:ahmedomardridi5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/dridi10331">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://huggingface.co/ahmedomar10">
+    <img src="https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-### 🧠 About Me
+## About Me
 
-Engineering student at ESPRIT focused on machine learning systems, computer vision, and backend infrastructure.
-
-I build production-oriented AI applications with an emphasis on deployment, inference optimization, APIs, and scalable system design — not just model training notebooks.
+I focus on building machine learning systems that work in production environments — combining computer vision, backend engineering, APIs, databases, and deployment infrastructure.
 
 Recent work includes:
+- Real-time visual search systems using YOLOv8
+- Fraud detection pipelines processing 10,000+ insurance claims
+- Inference optimization and latency reduction
+- Backend systems for ML deployment
+- RAG and NLP applications using modern LLM tooling
 
-Real-time visual product search systems using YOLOv8
-Fraud detection pipelines processing 10,000+ insurance claims
-Backend APIs and data systems for ML deployment
-RAG and NLP applications using modern LLM tooling
-
----
-
-### 🛠️ Tech Stack
-
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chain&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Superset](https://img.shields.io/badge/Apache_Superset-49A0B0?style=flat&logo=apachesuperset&logoColor=white)
+Currently deepening my expertise in:
+- FastAPI & backend architecture
+- PostgreSQL & database design
+- Docker & deployment
+- ML systems engineering
+- Distributed AI infrastructure
 
 ---
 
-### 🏅 Certifications
+## Tech Stack
 
-**NVIDIA Deep Learning Institute**  
-- [Fundamentals of Deep Learning](https://learn.nvidia.com/certificates?id=TS-haOxBSZqYgKz817h8Sw) – Feb 2026  
-- [Building LLM Applications with Prompt Engineering](https://learn.nvidia.com/certificates?id=Iht7G0M4S1m7uUBnsyFIdg) – Jan 2026  
-- [Introduction to Transformer‑Based Natural Language Processing](https://learn.nvidia.com/certificates?id=E-jRkyRSTwOF9onxp0a2Rw) – Jan 2026  
+### Languages & Frameworks
 
-**Other**  
-- [AWS AI Practitioner Challenge](https://www.udacity.com/certificate/e/5dffd256-28b8-11f1-b6c4-e7c7a313538b) – March 2026
-- Building RAG Apps Using MongoDB – MongoDB, Jan 2026  
-- Fundamental AI Concepts – Microsoft, Jan 2026  
-- Introduction to Git – Microsoft, Jan 2026  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,postgresql,docker,git,linux"/>
+</p>
 
----
+### AI / ML
 
-### 💼 Experience
-
-**Data Analyst Intern** – *Unfrauded* (Remote, Tunisia)  
-*Aug 2025 – Sep 2025*  
-- Cleaned and processed insurance claims data using Python & Pandas.  
-- Loaded data into SQLite for efficient querying and built interactive dashboards with Apache Superset.  
-- Deployed the dashboard platform using Docker.  
-- Integrated machine learning models to automate fraud detection.
-
-**Data Science & AI Bootcamp** – *JobGate*  
-*Oct 2025*  
-- Intensive training in Python, Machine Learning (Regression, Classification, Random Forest, XGBoost), Deep Learning (CNN, RNN, LSTM), NLP, and Computer Vision (YOLO).  
-- Completed real‑world projects: fraud detection, image classification, chatbot.
+<p>
+  <img src="https://img.shields.io/badge/Computer_Vision-5C2D91?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Object_Detection-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-222222?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LLMs-333333?style=flat-square"/>
+</p>
 
 ---
 
-### 📌 Featured Projects
+## Featured Projects
 
 | Project | Description |
-|---------|-------------|
-| [**OCR Document Chatbot**](https://github.com/dridi10331/ocr-document-chatbot) | RAG pipeline using LangChain to answer questions from scanned documents. |
-| [**LangChain Personality Bot**](https://github.com/dridi10331/langchain-personality-bot) | Conversational AI that adapts responses based on user personality. |
-| [**Weather LSTM Prediction**](https://github.com/dridi10331/weather-lstm-prediction) | Time series forecasting with LSTM neural networks. |
-| [**ShopVision E‑commerce**](https://github.com/dridi10331/shopvision-ecommerce) | Full‑stack e‑commerce platform with integrated computer vision. |
-| [**CV‑Job Matching**](https://github.com/dridi10331/cv-job-matching) | NLP‑based system to match resumes with job descriptions. |
-| [**F1 Podium Prediction**](https://github.com/dridi10331/f1-podium-prediction) | Regression model to predict Formula 1 race outcomes. |
-
-*Explore all my repositories above 👆*
+|---|---|
+| **ShopVision** | Real-time visual product search engine using YOLOv8, PostgreSQL, and Streamlit |
+| **Car Damage Detection** | Vehicle damage detection system using YOLOv8 |
+| **CV Job Matching** | NLP pipeline matching resumes with job descriptions |
+| **OCR Document Chatbot** | RAG system for querying scanned documents using LLMs |
+| **AI Code Review Agent** | AI-assisted code analysis and review system |
 
 ---
 
-### 📫 Let’s Connect
+## Experience Highlights
 
-- **LinkedIn**: [Ahmed Omar Dridi](https://www.linkedin.com/in/ahmed-omar-dridi-924445335/)
-- **Email**: ahmedomardridi5@gmail.com
-- **GitHub**: [Ahmed Omar Dridi](https://github.com/dridi10331) – you’re already here!
-- **Kaggle**: [Ahmed Omar Dridi](https://www.kaggle.com/omardridi)
-- **Huggingface**: [Ahmed Omar Dridi](https://huggingface.co/ahmedomar10)
+### ITGate — Computer Vision / ML Engineering Intern
+- Reduced inference latency by **40%**
+- Reduced false positives by **65%**
+- Built production-grade visual search pipeline
+- Designed scalable PostgreSQL/Supabase backend
+
+### Unfrauded — Data Analyst Intern
+- Processed **10,000+ insurance claims**
+- Built fraud detection workflows
+- Optimized SQLite queries to **sub-50ms latency**
+- Built analytics dashboards with Apache Superset
 
 ---
 
-*“Building the future, one model at a time.”*
+## Certifications
+
+- NVIDIA DLI — Fundamentals of Deep Learning
+- NVIDIA DLI — Transformer-Based NLP
+- NVIDIA DLI — Building LLM Applications
+- MongoDB — Building RAG Apps
+- AWS AI Practitioner Challenge
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dridi10331&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dridi10331&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmedomardridi">LinkedIn</a> •
+  <a href="mailto:ahmedomardridi5@gmail.com">Email</a> •
+  <a href="https://www.kaggle.com/omardridi">Kaggle</a> •
+  <a href="https://huggingface.co/ahmedomar10">Hugging Face</a>
+</p>
