@@ -16,12 +16,16 @@
 
 ### 🧠 About Me
 
-I’m an engineering student at **ESPRIT** with a strong focus on **Artificial Intelligence**, **Machine Learning**, and **Full‑Stack Development**. I love building intelligent systems that solve real‑world problems.
+Engineering student at ESPRIT focused on machine learning systems, computer vision, and backend infrastructure.
 
-- 🔭 I’m currently deepening my expertise in **LLMs**, **RAG**, and **Deep Learning**.
-- 🌱 Always learning: latest AI frameworks, cloud deployment, and MLOps.
-- 👯 Open to collaborating on open‑source AI projects.
-- 💬 Ask me about **Python, PyTorch, LangChain, Computer Vision, or anything AI/ML**.
+I build production-oriented AI applications with an emphasis on deployment, inference optimization, APIs, and scalable system design — not just model training notebooks.
+
+Recent work includes:
+
+Real-time visual product search systems using YOLOv8
+Fraud detection pipelines processing 10,000+ insurance claims
+Backend APIs and data systems for ML deployment
+RAG and NLP applications using modern LLM tooling
 
 ---
 
