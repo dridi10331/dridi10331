@@ -176,7 +176,7 @@ My goal is to build scalable AI systems that solve real-world problems.
 
 <p align="center">
 
-<img src="<img src="<img src="https://raw.githubusercontent.com/dridi10331/dridi10331/main/trophy.svg"/>"/>"/>
+<img src="https://github-trophy-service.zeabur.app/?username=dridi10331&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
 
