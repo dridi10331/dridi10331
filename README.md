@@ -176,7 +176,7 @@ My goal is to build scalable AI systems that solve real-world problems.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dridi10331&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="<img src="https://github-profile-trophy-fork-two.vercel.app/?username=dridi10331&theme=tokyonight&no-frame=true&margin-w=10"/>"/>
 
 </p>
 
