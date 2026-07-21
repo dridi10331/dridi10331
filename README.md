@@ -179,15 +179,6 @@ My goal is to build scalable AI systems that solve real-world problems.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://img.shields.io/github/followers/dridi10331?style=for-the-badge&color=0e75b6&labelColor=181717"/>
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=0e75b6&labelColor=181717&label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/dridi10331"/>
-
-</p>
-
 # 📫 Connect With Me
 
 <p align="center">
