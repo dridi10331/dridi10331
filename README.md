@@ -131,32 +131,25 @@ My goal is to build scalable AI systems that solve real-world problems.
 
 </p>
 
-# 🏅 Achievements
-
-- 🎓 DALF C1 (French)
-- 🏆 IBM Generative AI Applications Specialist
-- 🍃 MongoDB RAG Badge
-- ☁️ AWS AI Practitioner Challenge
-
----
-
-# 📊 GitHub Statistics
+## 🏆 Certifications & Badges
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dridi10331&show_icons=true&theme=tokyonight&hide_border=true"/>
+<a href="https://www.credly.com/badges/c5e9a1d6-0dd4-4565-8854-ed321bdbabd4/public_url">
+  <img src="https://raw.githubusercontent.com/dridi10331/dridi10331/main/generative-ai-applications-specialist.png"
+       width="120"
+       alt="IBM Generative AI Applications Specialist">
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dridi10331&layout=compact&theme=tokyonight&hide_border=true"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.credly.com/badges/53d13d67-c755-4ca3-af08-2a9dccbad26f/public_url">
+  <img src="https://raw.githubusercontent.com/dridi10331/dridi10331/main/building-rag-apps-using-mongodb.png"
+       width="120"
+       alt="MongoDB Building RAG Apps">
+</a>
 
 </p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=dridi10331&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🏆 GitHub Trophies
 
