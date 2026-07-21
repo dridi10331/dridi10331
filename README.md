@@ -121,13 +121,13 @@ My goal is to build scalable AI systems that solve real-world problems.
 
 - 🥇 **Generative AI Applications Specialist**
   - 📅 July 2026
-  - 🔗 YOUR_BADGE_URL
+  - 🔗 (https://www.credly.com/badges/c5e9a1d6-0dd4-4565-8854-ed321bdbabd4/public_url)
 
 ### MongoDB
 
 - 🍃 **Building RAG Apps Using MongoDB**
   - 📅 January 2026
-  - 🔗 YOUR_BADGE_URL
+  - 🔗 (https://www.credly.com/badges/53d13d67-c755-4ca3-af08-2a9dccbad26f/public_url)
 
 ### NVIDIA
 
