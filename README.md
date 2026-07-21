@@ -117,29 +117,41 @@ My goal is to build scalable AI systems that solve real-world problems.
 
 # 🏆 Certifications & Badges
 
-### IBM / Coursera
+<p align="center">
 
-- 🥇 **Generative AI Applications Specialist**
-  - 📅 July 2026
-  - 🔗 (https://www.credly.com/badges/c5e9a1d6-0dd4-4565-8854-ed321bdbabd4/public_url)
+<a href="https://www.credly.com/badges/c5e9a1d6-0dd4-4565-8854-ed321bdbabd4/public_url" target="_blank">
+<img src="https://images.credly.com/size/340x340/images/4e248e82-9a0e-4f0f-91fb-6cb63e3b4b0d/blob.png" width="170" alt="IBM Generative AI Applications Specialist"/>
+</a>
 
-### MongoDB
+<a href="https://www.credly.com/badges/53d13d67-c755-4ca3-af08-2a9dccbad26f/public_url" target="_blank">
+<img src="https://images.credly.com/size/340x340/images/8b1d8cb4-3f3b-44b8-a84c-95b2c98b5eb0/blob.png" width="170" alt="MongoDB Building RAG Apps"/>
+</a>
 
-- 🍃 **Building RAG Apps Using MongoDB**
-  - 📅 January 2026
-  - 🔗 (https://www.credly.com/badges/53d13d67-c755-4ca3-af08-2a9dccbad26f/public_url)
+</p>
 
-### NVIDIA
+<p align="center">
 
-- Fundamentals of Deep Learning
-- Transformer-Based NLP
-- Building LLM Applications
+<a href="https://www.credly.com/badges/c5e9a1d6-0dd4-4565-8854-ed321bdbabd4/public_url">
+<b>🥇 IBM / Coursera – Generative AI Applications Specialist</b>
+</a>
 
-### AWS
+<br>
 
-- AWS AI Practitioner Challenge
+Issued: July 2026
 
----
+</p>
+
+<p align="center">
+
+<a href="https://www.credly.com/badges/53d13d67-c755-4ca3-af08-2a9dccbad26f/public_url">
+<b>🍃 MongoDB – Building RAG Apps Using MongoDB</b>
+</a>
+
+<br>
+
+Issued: January 2026
+
+</p>
 
 # 🏅 Achievements
 
