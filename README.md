@@ -190,9 +190,7 @@ My goal is to build scalable AI systems that solve real-world problems.
 
 <a href="mailto:ahmedomardridi5@gmail.com">Email</a> •
 
-<a href="https://huggingface.co/ahmedomar10">Hugging Face</a> •
 
-<a href="https://www.kaggle.com/omardridi">Kaggle</a>
 
 </p>
 
