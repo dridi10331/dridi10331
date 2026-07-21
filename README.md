@@ -172,15 +172,14 @@ My goal is to build scalable AI systems that solve real-world problems.
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-trophy-service.zeabur.app/?username=dridi10331&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://img.shields.io/github/followers/dridi10331?style=for-the-badge&color=0e75b6&labelColor=181717"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=0e75b6&labelColor=181717&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/dridi10331"/>
 
 </p>
-
----
 
 # 📫 Connect With Me
 
