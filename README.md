@@ -191,8 +191,6 @@ My goal is to build scalable AI systems that solve real-world problems.
   - Professional Working Proficiency
   - Daily use in AI engineering, backend development, documentation, and open-source projects
 
-- 🇹🇳 **Arabic**
-  - Native
 
 # 📫 Connect With Me
 
