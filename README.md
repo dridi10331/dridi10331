@@ -34,7 +34,7 @@ Engineering Student @ ESPRIT • Building Production-Ready AI Systems
 
 # 👋 About Me
 
-I'm an Engineering Student at **ESPRIT** passionate about Artificial Intelligence, Machine Learning, Backend Engineering, and Software Architecture.
+I'm a 3rd-year Engineering Student at **ESPRIT** (just moved up from 2nd year 🎉) passionate about Artificial Intelligence, Machine Learning, Backend Engineering, and Software Architecture.
 
 I enjoy building intelligent applications that combine:
 
