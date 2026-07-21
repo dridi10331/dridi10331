@@ -115,41 +115,62 @@ My goal is to build scalable AI systems that solve real-world problems.
 
 ---
 
-## 🏆 Certifications & Badges
+# 🏆 Certifications & Badges
+
+| Certificate / Badge | Issuer | Link |
+|---|---|---|
+| Generative AI Applications Specialist | IBM | [Credly](https://www.credly.com/badges/c5e9a1d6-0dd4-4565-8854-ed321bdbabd4/public_url) |
+| Building RAG Applications Using MongoDB | MongoDB | [Credly](https://www.credly.com/badges/53d13d67-c755-4ca3-af08-2a9dccbad26f/public_url) |
+| RAG with LangChain — Guided Project | IBM / Coursera | [Certificate](https://github.com/dridi10331/dridi10331/blob/main/CERTIFICATE_LANDING_PAGE~07HR4NBEWU8Z.jpeg) |
+| Building LLM Applications With Prompt Engineering | NVIDIA Deep Learning Institute | [Certificate](https://github.com/dridi10331/dridi10331/blob/main/Building%20LLM%20Applications%20With%20Prompt%20Engineering.png) |
+| Fundamentals of Deep Learning | NVIDIA Deep Learning Institute | [Certificate](https://github.com/dridi10331/dridi10331/blob/main/Fundamentals%20of%20Deep%20Learning.png) |
+| Introduction to Transformer-Based Natural Language Processing | NVIDIA Deep Learning Institute | [Certificate](https://github.com/dridi10331/dridi10331/blob/main/Introduction%20to%20Transformer-Based%20Natural%20Language%20Processing.png) |
+| AI/Software Engineering Bootcamp | JobGate | [Certificate](https://github.com/dridi10331/dridi10331/blob/main/1779985610925.jpg) |
+| Introduction to Git | — | [Badge](https://github.com/dridi10331/dridi10331/blob/main/introduction-to-git-badge.svg) |
 
 <p align="center">
 
 <a href="https://www.credly.com/badges/c5e9a1d6-0dd4-4565-8854-ed321bdbabd4/public_url">
-<img src="images/ibm-generative-ai-specialist.png" width="180"/>
+  <img src="https://raw.githubusercontent.com/dridi10331/dridi10331/main/generative-ai-applications-specialist.png" width="120" alt="IBM Generative AI Applications Specialist">
 </a>
-
 &nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.credly.com/badges/53d13d67-c755-4ca3-af08-2a9dccbad26f/public_url">
-<img src="images/mongodb-rag.png" width="180"/>
+  <img src="https://raw.githubusercontent.com/dridi10331/dridi10331/main/building-rag-apps-using-mongodb.png" width="120" alt="MongoDB Building RAG Apps">
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/dridi10331/dridi10331/main/introduction-to-git-badge.svg" width="120" alt="Introduction to Git badge">
 
 </p>
-
-## 🏆 Certifications & Badges
 
 <p align="center">
 
-<a href="https://www.credly.com/badges/c5e9a1d6-0dd4-4565-8854-ed321bdbabd4/public_url">
-  <img src="https://raw.githubusercontent.com/dridi10331/dridi10331/main/generative-ai-applications-specialist.png"
-       width="120"
-       alt="IBM Generative AI Applications Specialist">
+<a href="https://github.com/dridi10331/dridi10331/blob/main/Building%20LLM%20Applications%20With%20Prompt%20Engineering.png">
+  <img src="https://raw.githubusercontent.com/dridi10331/dridi10331/main/Building%20LLM%20Applications%20With%20Prompt%20Engineering.png" width="200" alt="Building LLM Applications With Prompt Engineering">
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.credly.com/badges/53d13d67-c755-4ca3-af08-2a9dccbad26f/public_url">
-  <img src="https://raw.githubusercontent.com/dridi10331/dridi10331/main/building-rag-apps-using-mongodb.png"
-       width="120"
-       alt="MongoDB Building RAG Apps">
+&nbsp;&nbsp;
+<a href="https://github.com/dridi10331/dridi10331/blob/main/Fundamentals%20of%20Deep%20Learning.png">
+  <img src="https://raw.githubusercontent.com/dridi10331/dridi10331/main/Fundamentals%20of%20Deep%20Learning.png" width="200" alt="Fundamentals of Deep Learning">
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/dridi10331/dridi10331/blob/main/Introduction%20to%20Transformer-Based%20Natural%20Language%20Processing.png">
+  <img src="https://raw.githubusercontent.com/dridi10331/dridi10331/main/Introduction%20to%20Transformer-Based%20Natural%20Language%20Processing.png" width="200" alt="Introduction to Transformer-Based NLP">
 </a>
 
 </p>
+
+<p align="center">
+
+<a href="https://github.com/dridi10331/dridi10331/blob/main/CERTIFICATE_LANDING_PAGE~07HR4NBEWU8Z.jpeg">
+  <img src="https://raw.githubusercontent.com/dridi10331/dridi10331/main/CERTIFICATE_LANDING_PAGE~07HR4NBEWU8Z.jpeg" width="200" alt="IBM Coursera RAG Guided Project Certificate">
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/dridi10331/dridi10331/blob/main/1779985610925.jpg">
+  <img src="https://raw.githubusercontent.com/dridi10331/dridi10331/main/1779985610925.jpg" width="200" alt="JobGate Bootcamp Certificate">
+</a>
+
+</p>
+
+---
 
 # 🏆 GitHub Trophies
 
