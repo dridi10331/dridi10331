@@ -48,6 +48,13 @@ I enjoy building intelligent applications that combine:
 
 My goal is to build scalable AI systems that solve real-world problems.
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Freelance-Available-blue?style=for-the-badge"/>
+
+</p>
+
 ---
 
 # 🚀 Tech Stack
