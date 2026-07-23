@@ -1,7 +1,7 @@
 <h1 align="center">Ahmed Omar Dridi</h1>
 
 <h3 align="center">
-AI Engineer • Backend Engineering • Software Architecture
+AI Engineer • Backend Engineering 
 </h3>
 
 <p align="center">
