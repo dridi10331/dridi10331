@@ -184,8 +184,7 @@ My goal is to build scalable AI systems that solve real-world problems.
 # 🌍 Languages
 
 - 🇫🇷 **French** — **DALF C1**
-  - 📄 [Attestation of Success](https://github.com/dridi10331/dridi10331/blob/main/Attestation%20de%20R%C3%A9ussite.png)
-  - 🏅 Diploma pending
+  - 🏅 [diplôme DALF C1](https://github.com/dridi10331/dridi10331/blob/main/diplome.png)
 
 - 🇬🇧 **English**
   - Professional Working Proficiency
