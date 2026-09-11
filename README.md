@@ -184,7 +184,8 @@ My goal is to build scalable AI systems that solve real-world problems.
 # 🌍 Languages
 
 - 🇫🇷 **French** — **DALF C1**
-  - 🏅 (https://github.com/dridi10331/dridi10331/blob/main/diplome.png)
+- <img src="https://github.com/dridi10331/dridi10331/blob/main/diplome.png" width="200" alt="JobGate Bootcamp Certificate">
+</a>
 
 - 🇬🇧 **English**
   - Professional Working Proficiency
