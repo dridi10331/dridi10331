@@ -120,6 +120,25 @@ My goal is to build scalable AI systems that solve real-world problems.
 - Optimized SQLite queries to **sub-50ms**
 - Developed dashboards using Apache Superset
 
+
+## Full Stack & AI Developer Intern — Bit&Books Inc.
+
+- Contributed to the development of BitCart, a multi-tenant e-commerce platform, while collaborating with the AI Engineering team on document intelligence and AI-powered bookkeeping solutions.
+- Developed and enhanced full-stack features using Next.js, NestJS, TypeScript, PostgreSQL/Prisma, Firebase, and Stripe, across customer-facing storefronts and administrative interfaces.
+- Implemented core e-commerce functionality including product management, cart and checkout flows, dashboards, categories, order management, and store configuration.
+- Contributed to Stripe Checkout, guest cart functionality, tenant isolation, storefront UX/accessibility, and multi-store capabilities.
+- Worked on integrations and distribution modes including hosted stores, embedded widgets, WordPress, and Webflow.
+- Designed and implemented an end-to-end document intelligence pipeline covering OCR → document classification → information extraction → accounting automation.
+- Re-engineered the OCR layer using PaddleOCR-VL and integrated remote LLM inference through vLLM and RunPod.
+- Developed a rule-based classifier supporting 7 document types, using weighted positive/negative signals and document-specific classification logic.
+- Built schema-driven extraction pipelines for structured information from invoices, receipts, payment documents, and financial statements.
+- Evaluated the classification pipeline on 7,831 documents, achieving 74.3% overall accuracy and 98.9% accuracy on receipts.
+- Developed a configurable bookkeeping rule engine generating balanced double-entry journal entries, including Canadian GST/HST/QST/PST tax handling.
+- Integrated OCR, classification, extraction, and accounting rules into a unified pipeline and deployed the bookkeeping API on RunPod.
+
+**Technologies:** Python, FastAPI, Next.js, NestJS, TypeScript, PostgreSQL, Prisma, Firebase, Stripe, Docker, Git/GitHub, PaddleOCR-VL, vLLM, LLMs, RAG, RunPod.
+
+
 ---
 
 # 🏆 Certifications & Badges
