@@ -103,7 +103,7 @@ My goal is to build scalable AI systems that solve real-world problems.
 
 # 💼 Experience
 
-## Computer Vision / ML Engineering Intern — ITGate
+## Computer Vision / ML Engineering Intern — ITGate(1 month)
 
 - Built a real-time visual search system
 - Reduced inference latency by **40%**
@@ -113,7 +113,7 @@ My goal is to build scalable AI systems that solve real-world problems.
 
 ---
 
-## Data Analyst Intern — Unfrauded
+## Data Analyst Intern — Unfrauded(2 months)
 
 - Processed **10,000+ insurance claims**
 - Built fraud detection workflows
@@ -121,7 +121,7 @@ My goal is to build scalable AI systems that solve real-world problems.
 - Developed dashboards using Apache Superset
 
 
-## Full Stack & AI Developer Intern — Bit&Books Inc.
+## Full Stack & AI Developer Intern — Bit&Books Inc. (3 months)
 
 - Contributed to the development of BitCart, a multi-tenant e-commerce platform, while collaborating with the AI Engineering team on document intelligence and AI-powered bookkeeping solutions.
 - Developed and enhanced full-stack features using Next.js, NestJS, TypeScript, PostgreSQL/Prisma, Firebase, and Stripe, across customer-facing storefronts and administrative interfaces.
