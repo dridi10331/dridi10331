@@ -121,7 +121,9 @@ My goal is to build scalable AI systems that solve real-world problems.
 - Developed dashboards using Apache Superset
 
 
-## Full Stack & AI Developer Intern — Bit&Books Inc. (3 months)
+
+## Full Stack & AI Developer Intern — Bit&Books Inc.
+*June 2026 – August 2026 · 3 months · Remote*
 
 - Contributed to the development of BitCart, a multi-tenant e-commerce platform, while collaborating with the AI Engineering team on document intelligence and AI-powered bookkeeping solutions.
 - Developed and enhanced full-stack features using Next.js, NestJS, TypeScript, PostgreSQL/Prisma, Firebase, and Stripe, across customer-facing storefronts and administrative interfaces.
