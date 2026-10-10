@@ -1,12 +1,8 @@
 <h1 align="center">Ahmed Omar Dridi</h1>
 
 <h3 align="center">
-AI Engineer • Backend Engineering 
+Engineering Student | Artificial Intelligence | Full-Stack Development
 </h3>
-
-<p align="center">
-Engineering Student @ ESPRIT • Building Production-Ready AI Systems
-</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ahmedomardridi">
