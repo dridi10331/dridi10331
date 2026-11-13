@@ -1,7 +1,8 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C2A8&height=220&section=header&text=Ahmed%20Omar%20Dridi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" width="100%"/>
+<h1>Ahmed Omar Dridi</h1>
+<h3>AI &amp; Full-Stack Engineer · Engineering Student @ ESPRIT</h3>
 
 <a href="https://github.com/dridi10331">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Computer+Vision+%7C+LLMs+%7C+RAG;Building+scalable+AI+systems;FastAPI+%7C+Next.js+%7C+NestJS;Engineering+Student+%40+ESPRIT" alt="Typing SVG"/>
@@ -193,10 +194,6 @@ Automated pull-request review with LLMs.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dridi10331&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dridi10331&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com/?user=dridi10331&theme=tokyonight&hide_border=true"/>
 
@@ -284,4 +281,4 @@ Automated pull-request review with LLMs.
 
 <p align="center">⭐ If you find my projects useful, consider giving them a star!</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2A8,100:0A66C2&height=120&section=footer" width="100%"/>
+<hr/>
