@@ -88,7 +88,8 @@ Real-time visual product search.<br/>
 <td width="50%" valign="top">
 
 ### 🚗 Car Damage Detection
-Detects and classifies vehicle damage from images.
+Detects and classifies vehicle damage from images.<br/>
+<a href="https://huggingface.co/spaces/ahmedomar10/car-damage-detection"><img src="https://img.shields.io/badge/🤗_Live_Demo-FFD21E?style=flat-square&logoColor=black"/></a>
 
 <img src="https://img.shields.io/badge/YOLOv8-111?style=flat-square"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
